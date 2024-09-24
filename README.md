@@ -5,6 +5,6 @@ The sensor measured the distance to objects and sent the data to the Arduino, wh
 The LCD display was used to show the distance measurements in real-time, providing a visual representation of the detected objects.
 My responsibilities included designing the hardware setup, programming the Arduino to control the servo and process sensor data, and integrating the LCD display for real-time feedback. 
 # Hardware connections
-Servo Motor: pin D5.<br>  
-Ultrasonic Sensor: trig pin D2 / echo pin D3.
+Servo Motor: pin D5.<br> 
+Ultrasonic Sensor: trig pin D2 / echo pin D3.<br>
 LCD I2C : SDA pin A4 / SCL pin A5.
